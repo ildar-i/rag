@@ -32,11 +32,6 @@ chroma_db/
 faiss_index/
 qdrant_storage/
 
-# Knowledge base (can be regenerated)
-knowledge_base/*.txt
-knowledge_base/*.md
-!knowledge_base/.gitkeep
-
 # Logs
 *.log
 logs/
